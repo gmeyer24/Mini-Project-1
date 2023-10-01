@@ -1,0 +1,73 @@
+*  {font-family: 'Courier New', Courier, monospace;
+}
+
+header, footer {
+   background-color: rgb(33, 33, 201);
+   color: white;
+   padding: 1em;
+   border: 2px solid goldenrod;
+}
+
+header {
+    text-align: end;
+    position: fixed;
+    width: 95%;
+    top: 0;
+    left: 0;
+}
+
+footer { text-align: center;
+}
+
+header a {
+    color: black;
+    font-weight: bolder;
+}
+
+#pageheader {
+    text-align: center;
+    text-shadow: 2px 2px blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+}
+figure{
+    text-align: center;
+}
+figcaption {
+    font-style: italic;
+}
+
+main {
+    margin-top: 60px;
+}
+
+#contactform {
+    border: 4px double goldenrod;
+    margin: 1em;
+    padding: 1em;
+    
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+input {
+    width: 300px;
+}
+button {
+    margin-top: 1em;
+    width: 100%;
+    
+}
+
+#contact {
+    background-color: slategrey;
+}
